@@ -1,0 +1,16 @@
+### Read Me Here ###
+
+-checker Instagram usernames .. 
+tips: 
+Download chromedriver in with your version of google chrome : 
+: help : about this chrome #
+
+proxy list must be 1.1 http/https
+    
+    
+    #Falcon Digital Checker For free
+    #YOUTUBE/FalconDigitalArabic
+    #Make sure u download chromdriver and put it in same file !  
+    #time out For your Network if it's bad make it 4 #
+
+## Free And Don't try to steal this checker and sale it :) ##
